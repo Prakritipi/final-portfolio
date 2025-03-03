@@ -79,7 +79,6 @@
     .logo {
         padding: 0 2rem;
     }
-
     .menu {
         position: absolute;
         right: 0;
@@ -99,7 +98,7 @@
             display: flex !important; /* Ensure visibility on desktop */
         }
         .hamburger-icon, .cross-icon {
-           /* display: none !important; /* Hide icons on large screens */
+            display: none !important; /* Hide icons on large screens */
         }
     }
 
